@@ -3,7 +3,7 @@
 
 # Arquivos instalados para o uso do cucumber
 
-    Foi instalado com o comando "npm install cypress-cucumber-preprocessor" para estar fazendo a leitura dos arquivos feature.
+    Foi instalado com o comando "npm install cypress-cucumber-preprocessor" para fazer a leitura dos arquivos feature.
 
 # Estrutura do Projeto
 
