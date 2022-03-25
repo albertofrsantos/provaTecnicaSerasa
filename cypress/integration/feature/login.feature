@@ -1,6 +1,6 @@
 Feature: Login
 
-    Acessando o login da Amazon
+    Efetuando o login na plataforma Amazon 
 
  Scenario: Efetuando login no site da Amazon
     Given Estou logado no site amazon
